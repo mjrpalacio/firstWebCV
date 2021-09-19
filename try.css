@@ -1,0 +1,50 @@
+img.meProfilePic {
+  border-radius: 50%;
+  width: 200px;
+  border: 3px solid rgb(66, 109, 140);
+}
+.but {
+  width: 50px;
+}
+
+.tabCareer {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+td {
+  border-spacing: 10px;
+  padding: 3px;
+}
+th {
+  background-color: rgb(102, 164, 209);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+form.leftSize {
+  width: 50%;
+  height: 100%;
+  background-color: rgb(220, 232, 245);
+}
+
+hr {
+  height: 3px;
+  background-color: rgb(66, 109, 140);
+  width: 80%;
+}
+
+h3 {
+  font-style: italic;
+}
+
+h2,
+h3 {
+  padding-left: 20px;
+}
+
+.alignmentTab {
+  width: 90px;
+}

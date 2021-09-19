@@ -1,0 +1,48 @@
+hr {
+  size: 100px;
+  color: rgb(65, 97, 86);
+  padding: 0px;
+  border: 1px solid;
+}
+
+img {
+  height: auto;
+  width: 40%;
+}
+/* table {
+  border-spacing: 5%;
+  border-width: 4px;
+  border: 20px;
+  background-color: black;
+}
+tr {
+  padding: px;
+  background-color: antiquewhite;
+}
+
+}
+thead {
+  color: rgb(109, 123, 123);
+}
+
+tbody {
+  color: cornflowerblue;
+} */
+
+table {
+  border-width: 10px;
+  border-spacing: 1px;
+  border: 1px solid black;
+}
+
+td {
+  padding-top: 0px;
+
+  /* text-align: center; */
+  background-color: aliceblue;
+  border: 1px solid black;
+}
+
+/* td:hover {
+  background-color: rgb(255, 255, 255);
+} */
